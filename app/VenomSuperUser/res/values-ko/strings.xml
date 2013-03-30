@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Superuser</string>
+    <string name="app_name">슈퍼유저</string>
     <string name="app_name_request">슈퍼유저 권한 요청</string>
     <string name="page_label_apps">애플리케이션</string>
     <string name="page_label_log">로그</string>
     <string name="menu_preferences">설정</string>
     <string name="menu_clear">삭제</string>
     <string name="menu_clear_log">로그 삭제</string>
-    <string name="permgrouplab_superuser">Superuser Permissions</string>
+    <string name="permgrouplab_superuser">슈퍼유저 권한</string>
     <string name="permgroupdesc_superuser">Permissions related to Superuser</string>
     <string name="permlab_respond">respond to superuser requests</string>
     <string name="permdesc_respond">Allows the application to respond to requests for superuser access.</string>
-    <string name="permlab_provider_read">Read Superuser Data</string>
+    <string name="permlab_provider_read">슈퍼유저 데이터 읽기</string>
     <string name="permdesc_provider_read">Allows the application to read data from the Superuser ContentProvider</string>
-    <string name="permlab_provider_write">Write Superuser Data</string>
+    <string name="permlab_provider_write">슈퍼유저 데이터 쓰기</string>
     <string name="permdesc_provider_write">Allows the application to write data to the Superuser ContentProvider</string>
     <string name="recent_activity">최근 활동</string>
     <string name="yes">예</string>
@@ -56,11 +56,11 @@
     <string name="pref_timeout_title">접근요청 시간 제한</string>
     <string name="pref_timeout_summary">미등록 어플의 권한 요청시 응답시간을 %1$d초로 제한합니다</string>
     <string name="pref_automatic_action_title">자동 응답</string>
-    <string name="pref_automatic_action_summary">슈퍼유저가 새 요청을 처리하는 방식 지정합니다</string>
-    <string name="pref_category_applist_title">Apps list</string>
-    <string name="pref_applist_show_log_data_title">Show log data</string>
-    <string name="pref_applist_show_log_data_summary_on">Show log data in App list</string>
-    <string name="pref_applist_show_log_data_summary_off">Do not show log data in app list</string>
+    <string name="pref_automatic_action_summary">슈퍼유저가 새 요청을 처리하는 방식을 지정합니다</string>
+    <string name="pref_category_applist_title">앱 목록</string>
+    <string name="pref_applist_show_log_data_title">로그 데이터 보기</string>
+    <string name="pref_applist_show_log_data_summary_on">앱 목록에서 로그 데이터를 봅니다</string>
+    <string name="pref_applist_show_log_data_summary_off">앱 목록에서 로그 데이터를 보지 않습니다</string>
     <string name="pref_category_log_title">로그</string>
     <string name="pref_enable_logging_title">로그 사용</string>
     <string name="pref_enable_logging_summary_on">권한 생성과 접근이 로그 기록에 남습니다</string>
