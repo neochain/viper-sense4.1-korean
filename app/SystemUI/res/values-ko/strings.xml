@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
     <string name="app_label">시스템 UI</string>
@@ -192,9 +190,9 @@
     <string name="ext_wifi_connected">%1$s에 연결됨</string>
     <string name="ext_wifi_connectin">%1$s에 연결중</string>
     <string name="ext_cpuinfo_load">CPU0: %1$d%% ,CPU1: %2$d%%</string>
-    <string name="ext_cpuinfo_load_cpu0">CPU0: %1$d%% ,CPU1: offline</string>
+    <string name="ext_cpuinfo_load_cpu0">CPU0: %1$d%% ,CPU1: 꺼짐</string>
     <string name="ext_cpuinfo_freq">C0: %1$sMHz ,C1: %2$sMHz</string>
-    <string name="ext_cpuinfo_freq_cpu0">C0: %1$sMHz ,C1: offline</string>
+    <string name="ext_cpuinfo_freq_cpu0">C0: %1$sMHz ,C1: 꺼짐</string>
     <string name="status_bar_quick_settings">토글</string>
     <string name="status_bar_quick_settings_notifications">알림</string>
     <string name="eqs_adb">무선 ADB</string>
@@ -205,7 +203,7 @@
     <string name="eqs_power_efficiency">배터리 효율 증가</string>
     <string name="eqs_reboot">재부팅</string>
     <string name="eqs_reboot_summary">모든 앱을 닫고 재시작합니다</string>
-    <string name="eqs_wifi_auth">Authenticating...</string>
+    <string name="eqs_wifi_auth">확인중...</string>
     <string name="eqs_wifi_connecting">%s에 연결중...</string>
     <string name="eqs_wifi_connected">%s에 연결됨</string>
     <string name="eqs_wifi_scan">검색중...</string>
