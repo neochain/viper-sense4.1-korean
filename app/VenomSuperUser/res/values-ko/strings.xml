@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">슈퍼유저</string>
+    <string name="app_name">Superuser</string>
     <string name="app_name_request">슈퍼유저 권한 요청</string>
     <string name="page_label_apps">애플리케이션</string>
     <string name="page_label_log">로그</string>
     <string name="menu_preferences">설정</string>
     <string name="menu_clear">삭제</string>
     <string name="menu_clear_log">로그 삭제</string>
-    <string name="permgrouplab_superuser">슈퍼유저 권한</string>
+    <string name="permgrouplab_superuser">Superuser Permissions</string>
     <string name="permgroupdesc_superuser">Permissions related to Superuser</string>
     <string name="permlab_respond">respond to superuser requests</string>
     <string name="permdesc_respond">Allows the application to respond to requests for superuser access.</string>
