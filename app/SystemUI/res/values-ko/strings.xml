@@ -209,8 +209,8 @@
     <string name="eqs_wifi_scan">검색중...</string>
     <string name="eqs_wifi_obtainip">IP 주소를 확인하는중...</string>
     <string name="eqs_networkmode">네트워크 모드</string>
-    <string name="eqs_networkmode_2g">GSM Only</string>
-    <string name="eqs_networkmode_3g">WCDMA preferred</string>
+    <string name="eqs_networkmode_2g">GSM만</string>
+    <string name="eqs_networkmode_3g">WCDMA 우선</string>
     <string name="eqs_xloud">소니 xLOUD</string>
     <string name="eqs_screenon_timeout">화면이 꺼지는 시간:</string>
     <string name="quicklauncher">바로가기</string>
