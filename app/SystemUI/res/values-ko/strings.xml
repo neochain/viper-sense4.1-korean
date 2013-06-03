@@ -165,8 +165,10 @@
     <string name="navigation_bar_menu_remind_me">이 메시지를 다시 표시 안 함</string>
     <string name="eqs_tweaks_title">베놈트윅</string>
     <string name="eqs_tweaks_summary">베놈트윅을 실행합니다</string>
+    <string name="eqs_on">켜짐</string>
+    <string name="eqs_off">꺼짐</string>
     <string name="eqs_wifi">Wi-Fi</string>
-    <string name="eqs_bt">Bluetooth</string>
+    <string name="eqs_bt">블루투스</string>
     <string name="eqs_gps">GPS</string>
     <string name="eqs_airplane">비행기모드</string>
     <string name="eqs_flash">플래시</string>
