@@ -26,8 +26,8 @@
     <string name="file_info_modified">수정됨:</string>
     <string name="file_info_size">크기:</string>
     <string name="file_size">%d바이트</string>
-    <string name="install_failed">Installation failed</string>
-    <string name="install_successful">Installation successful</string>
+    <string name="install_failed">설치 실패</string>
+    <string name="install_successful">설치 성공</string>
     <string name="instruction">FTP클라이언트에 이 주소를 입력하세요:</string>
     <string name="instruction_pre">FTP서버를 시작하세요</string>
     <string name="menu_item_search">검색</string>
@@ -80,7 +80,7 @@
     <string name="tab_sd">파일</string>
     <string name="wifi_state">Wi-Fi 상태</string>
     <string name="yes">예</string>
-    <string name="dialog_select_type">Select file type</string>
+    <string name="dialog_select_type">파일 종류 선택</string>
     <string name="dialog_type_text">Text</string>
     <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_video">Video</string>
@@ -100,8 +100,8 @@
     <string name="default_primary_folder">/mnt/sdcard</string>
     <string name="pref_primary_folder_summary">애플리케이션이 시작될 때 표시되는 폴더를 설정합니다. 현재 설정은 %1$s입니다</string>
     <string name="pref_show_real_path_summary">내비게이션 바에 실제 위치를 보여줍니다</string>
-    <string name="root_folder">Root</string>
-    <string name="root_needed">Root access needed to perform this operation!</string>
+    <string name="root_folder">루트</string>
+    <string name="root_needed">이 작업은 루트 권한을 필요로 합니다!</string>
     <string name="permissions">권한:</string>
     <string name="perm_owner">사용자</string>
     <string name="perm_group">그룹</string>

@@ -42,7 +42,7 @@
     <string name="message_send">메시지 전송완료</string>
     <string name="message_send_error">메시지를 보내는데 오류가 생겼습니다</string>
     <string name="notif_title">베놈 HUB의 새로운 항목</string>
-    <string name="notif_start">Updated</string>
+    <string name="notif_start">업데이트</string>
     <string name="notif_links">링크</string>
     <string name="notif_news">마지막 뉴스</string>
     <string name="notif_statusbar">상태바 테마</string>
@@ -74,7 +74,7 @@
     <string name="changes">Changes</string>
     <string name="version">커널 버전</string>
     <string name="version_s">버전:</string>
-    <string name="info">More</string>
+    <string name="info">더보기</string>
     <string name="kernel_reboot_recovery">커널을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
     <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!! 무한부팅이나 벽돌이 될 수도 있습니다.</string>
     <string name="donate">Donate</string>

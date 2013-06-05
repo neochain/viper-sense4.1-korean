@@ -26,9 +26,6 @@
     <string name="status_bar_settings_mute_label">음소거</string>
     <string name="status_bar_settings_auto_brightness_label">자동</string>
     <string name="status_bar_settings_notifications">알림</string>
-    <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_network_name_separator">"
-"</string>
     <string name="bluetooth_tethered">Bluetooth 테더링됨</string>
     <string name="status_bar_input_method_settings_configure_input_methods">입력 방법 설정</string>
     <string name="status_bar_use_physical_keyboard">물리적 키보드 사용</string>
@@ -195,7 +192,7 @@
     <string name="ext_cpuinfo_load_cpu0">CPU0: %1$d%% ,CPU1: 꺼짐</string>
     <string name="ext_cpuinfo_freq">C0: %1$sMHz ,C1: %2$sMHz</string>
     <string name="ext_cpuinfo_freq_cpu0">C0: %1$sMHz ,C1: 꺼짐</string>
-    <string name="status_bar_quick_settings">토글</string>
+    <string name="status_bar_quick_settings">빠른 설정</string>
     <string name="status_bar_quick_settings_notifications">알림</string>
     <string name="eqs_adb">무선 ADB</string>
     <string name="eqs_adb_connect">연결중</string>

@@ -270,10 +270,10 @@
         <item>10</item>
     </string-array>
     <string-array name="battery_text_display_entries">
-        <item>Regular %</item>
-        <item>Small %</item>
-        <item>No %</item>
-        <item>Hide Text</item>
+        <item>중간 %</item>
+        <item>작은 %</item>
+        <item>% 없음</item>
+        <item>숨기기</item>
     </string-array>
     <string-array name="battery_text_display_values">
         <item>1</item>
