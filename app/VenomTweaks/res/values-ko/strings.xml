@@ -45,7 +45,7 @@
     <string name="automatic_signal_disabled">Signal Icon has a static color</string>
     <string name="automatic_wifi_enabled">Color will change based on current Wifi Signal Strength</string>
     <string name="automatic_wifi_disabled">Wifi Icon has a static color</string>
-    <string name="use_custom_app_title">사용자 애플리케이션</string>
+    <string name="use_custom_app_title">사용자 애플리케이션 사용</string>
     <string name="use_custom_app_summary">Use custom application instead of the recent applications dialog</string>
     <string name="select_custom_app_title">Select custom application</string>
     <string name="group_applications">어플리케이션</string>
@@ -57,8 +57,8 @@
     <string name="different_tweaks">기타 트윅</string>
     <string name="phone_info">폰 정보</string>
     <string name="phone_info_summary">숨겨진 HTC 폰의 정보</string>
-    <string name="capacitive_backlight">Capacitive Backlight</string>
-    <string name="capacitive_backlight_summary">Brightness of backlight behind bottom capacitive buttons</string>
+    <string name="capacitive_backlight">하단키 불빛</string>
+    <string name="capacitive_backlight_summary">하단 키의 불빛의 밝기와 시간을 선택합니다</string>
     <string name="overscroll_glow_color">오버스크롤 색깔</string>
     <string name="overscroll_glow_color_summary">오버스크롤할때 생기는 색을 정합니다</string>
     <string name="volume_steps">Volume Steps</string>
@@ -108,7 +108,7 @@
     <string name="statusbar_transparency">Statusbar visibility</string>
     <string name="statusbar_transparency_summary">Changes the transpareny of your statusbar</string>
     <string name="homescreen">홈화면</string>
-    <string name="smooth_rosie_tweaks">Smooth 센스 트윅</string>
+    <string name="smooth_rosie_tweaks">스무스 센스 트윅</string>
     <string name="show_unlock_animation">잠금해제 애니메이션</string>
     <string name="enable_landscape">가로모드 활성화</string>
     <string name="enable_landscape_summary">센스 런처에서 가로모드를 활성하게 합니다</string>
@@ -221,7 +221,7 @@
     <string name="fixing_apk_done">"권한 Fix가 완료되었습니다.
 %1$d 개의 애플리케이션을 체크했습니다."</string>
     <string name="longress_home_ls">홈키를 길게 눌렀을때</string>
-    <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를떄 작업을 선택합니다</string>
+    <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를때 작업을 선택합니다</string>
     <string name="use_xloud">Sony XLoud 활성화</string>
     <string name="use_xloud_summary">소니의 소리 관련 기술</string>
     <string name="use_bravia">Sony Bravia 활성화</string>
@@ -234,11 +234,11 @@
     <string name="incorrect_file">잘못된 파일입니다</string>
     <string name="dialog_error">오류</string>
     <string name="faq">F.A.Q.</string>
-    <string name="faq_summary">Check the F.A.Q. if you got issues or questions.</string>
+    <string name="faq_summary">궁금한 점이나 일이 생겼을 때 F.A.Q.를 확인해보세요</string>
     <string name="fb">페이스북</string>
-    <string name="fb_summary">페이스북을 방문</string>
+    <string name="fb_summary">페이스북을 방문합니다</string>
     <string name="g">구글 +</string>
-    <string name="g_summary">구글+ 방문</string>
+    <string name="g_summary">구글+ 방문합니다</string>
     <string name="cube_animation">큐브 애니메이션</string>
     <string name="cube_animation_summary">HTC 어플서랍 탭을 바꿀떄 큐브 애니메이션을 사용합니다</string>
     <string name="unlock_slide">슬라이드로 잠금 해제</string>
@@ -326,7 +326,7 @@
     <string name="customize">사용자 설정</string>
     <string name="select_icon">아이콘 선택</string>
     <string name="sweep_wake">Sweep2Wake모드</string>
-    <string name="sweep_wake_summary">Bricked커널에서 화면이 꺼진 상태에서도 키를 터치하면 화면이 켜지는 기능을 활성화시킵니다</string>
+    <string name="sweep_wake_summary">화면이 꺼진 상태에서도 키를 터치하면 화면이 켜지는 기능을 활성화시킵니다</string>
     <string name="aosp_call_unlock">전화가 오면 잠금해제</string>
     <string name="aosp_call_unlock_summary">전화가 오면 잠금을 해제합니다</string>
     <string name="minfree_mode">Minfree presets</string>
@@ -384,9 +384,9 @@
     <string name="animations">애니메이션 효과</string>
     <string name="cpu">CPU</string>
     <string name="cpu_settings">CPU/커널 설정</string>
-    <string name="cpu_min">최소 클럭</string>
-    <string name="cpu_max">최대 클럭</string>
-    <string name="cpu_gov">CPU 가버너</string>
+    <string name="cpu_min">최저 클럭</string>
+    <string name="cpu_max">최고 클럭</string>
+    <string name="cpu_gov">가버너</string>
     <string name="cpu_shed">IO 스케쥴러</string>
     <string name="freq">클럭:</string>
     <string name="cpu_volt">CPU 전압</string>
