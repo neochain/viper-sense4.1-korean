@@ -134,7 +134,7 @@
     <string name="apm_items">전원 메뉴 항목</string>
     <string name="apm_items_summary">전원 메뉴에 나오는 항목을 바꿉니다</string>
     <string name="recentapps_dialog_tweaks">최근 앱 형식</string>
-    <string name="recentapps_bgcolor">Background colour</string>
+    <string name="recentapps_bgcolor">배경 색</string>
     <string name="recentapps_bgcolor_summary">Change background colour of dialog</string>
     <string name="h_icon_replace">모바일 데이터 아이콘</string>
     <string name="h_icon_replace_summary">3G 아이콘을 다른 아이콘으로 바꿉니다</string>
