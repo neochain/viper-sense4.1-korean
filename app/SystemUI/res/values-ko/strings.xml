@@ -188,10 +188,10 @@
     <string name="ext_wifi_turnon">Wi-Fi를 키는 중…</string>
     <string name="ext_wifi_connected">%1$s에 연결됨</string>
     <string name="ext_wifi_connectin">%1$s에 연결중</string>
-    <string name="ext_cpuinfo_load">CPU0: %1$d%% ,CPU1: %2$d%%</string>
-    <string name="ext_cpuinfo_load_cpu0">CPU0: %1$d%% ,CPU1: 꺼짐</string>
-    <string name="ext_cpuinfo_freq">C0: %1$sMHz ,C1: %2$sMHz</string>
-    <string name="ext_cpuinfo_freq_cpu0">C0: %1$sMHz ,C1: 꺼짐</string>
+    <string name="ext_cpuinfo_load">CPU : %1$d%%</string>
+    <string name="ext_cpuinfo_load_cpu0">CPU : %1$d%%</string>
+    <string name="ext_cpuinfo_freq">CPU : %1$sMHz</string>
+    <string name="ext_cpuinfo_freq_cpu0">CPU : %1$sMHz</string>
     <string name="status_bar_quick_settings">빠른 설정</string>
     <string name="status_bar_quick_settings_notifications">알림</string>
     <string name="eqs_adb">무선 ADB</string>
