@@ -15,7 +15,7 @@
     <string-array name="longpress_buttons_entries">
         <item>없음</item>
         <item>최근 앱</item>
-        <item>재부팅 메뉴</item>
+        <item>다시 시작 메뉴</item>
         <item>전원 메뉴</item>
         <item>검색</item>
         <item>상태바 확장</item>
