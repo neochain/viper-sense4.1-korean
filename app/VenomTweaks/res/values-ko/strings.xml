@@ -7,20 +7,12 @@
     <string name="restart_title">다시 시작</string>
     <string name="rosie_restart">설정을 적용하기 위해 센스를 다시 시작하겠습니까?</string>
     <string name="systemui_restart">설정을 적용하기 위해 상태바를 다시 시작하겠습니까?</string>
-<<<<<<< HEAD
-    <string name="phone_restart">설정을 적용하기 위해 빠른 시작을 하시겠습니까?</string>
-=======
     <string name="phone_restart">설정을 적용하기 위해 빠른 시작하시겠습니까?</string>
->>>>>>> Update VenomTweaks
     <string name="phone_full_restart">설정을 적용하기 위해 다시 시작하시겟습니까?</string>
     <string name="rosie_systemui_restart">설정을 적용하기 위해 센스와 상태바를 다시 시작하겠습니까?</string>
     <string name="need_rosie_restart">센스를 다시 시작해주세요!</string>
     <string name="need_systemui_restart">상태바를 다시 시작해주세요!</string>
-<<<<<<< HEAD
-    <string name="need_phone_restart">빠른 시작을 해주세요!</string>
-=======
     <string name="need_phone_restart">빠른 시작해주세요!</string>
->>>>>>> Update VenomTweaks
     <string name="need_phone_full_restart">다시 시작해주세요!</string>
     <string name="need_rosie_systemui_restart">센스와 상태바를 다시 시작해주세요!</string>
     <string name="donate">기부</string>
