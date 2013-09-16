@@ -199,7 +199,7 @@
     <string name="eqs_adb_disabled">Wi-Fi를 먼저 켜주세요</string>
     <string name="eqs_volume">볼륨</string>
     <string name="eqs_auto_brightness">자동 밝기</string>
-    <string name="eqs_power_efficiency">배터리 효율 증가</string>
+    <string name="eqs_power_efficiency">전원 절약기</string>
     <string name="eqs_reboot">재부팅</string>
     <string name="eqs_reboot_summary">모든 앱을 닫고 재시작합니다</string>
     <string name="eqs_wifi_auth">확인중...</string>
