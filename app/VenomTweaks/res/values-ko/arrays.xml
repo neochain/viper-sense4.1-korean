@@ -21,7 +21,7 @@
         <item>상태바 확장</item>
         <item>앱 종료</item>
         <item>스크린샷</item>
-        <item>플래시라이트</item>
+        <item>손전등</item>
         <item>음악 - 재생/정지</item>
         <item>음악 - 이전곡</item>
         <item>음악 - 다음곡</item>
@@ -90,7 +90,7 @@
     </string-array>
     <string-array name="longress_home_ls_entries">
         <item>없음</item>
-        <item>플래시 토글</item>
+        <item>손전등 토글</item>
         <item>사용자 앱</item>
     </string-array>
     <string-array name="longress_home_ls_values">
@@ -113,9 +113,9 @@
         <item>1000</item>
     </string-array>
     <string-array name="sweep_wake_entries">
-        <item>활성화</item>
-        <item>활성화(백라이트 없음)</item>
-        <item>비활성화</item>
+        <item>사용함</item>
+        <item>사용함(백라이트 없음)</item>
+        <item>사용안함</item>
     </string-array>
     <string-array name="sweep_wake_values">
         <item>1</item>
@@ -282,7 +282,7 @@
         <item>2</item>
     </string-array>
     <string-array name="pref_overscroll_effect_entries">
-        <item>None</item>
+        <item>없음</item>
         <item>Edge Glow</item>
         <item>Bounce and Glow</item>
         <item>Bounce</item>
@@ -298,7 +298,7 @@
         <item>볼륨</item>
         <item>자동꺼짐</item>
         <item>자동밝기</item>
-        <item>플래시</item>
+        <item>손전등</item>
         <item>자동회전</item>
         <item>비행기모드</item>
         <item>WiFi</item>
@@ -345,7 +345,7 @@
         <item>오전/오후 숨기기</item>
     </string-array>
     <string-array name="hide_lockscreen_shortcuts_entries">
-        <item>라벨 숨기기</item>
+        <item>문구 숨기기</item>
         <item>Hide bubles</item>
     </string-array>
     <string-array name="hide_noti_entries">
@@ -370,15 +370,15 @@
         <item>3</item>
     </string-array>
     <string-array name="show_apm_items">
-        <item>재부팅</item>
+        <item>다시 시작</item>
         <item>스크린샷</item>
         <item>비행기 모드</item>
         <item>3G 데이터</item>
         <item>소리 조절</item>
     </string-array>
     <string-array name="recentapps_style_entries">
-        <item>센스 기본</item>
-        <item>안드로이드 4.0</item>
+        <item>기본 (센스 UI)</item>
+        <item>안드로이드 4.0 (AOSP)</item>
     </string-array>
     <string-array name="recentapps_style_values">
         <item>1</item>
@@ -447,7 +447,7 @@
         <item>멀티태스킹</item>
         <item>멀티태스킹 익스트림</item>
         <item>멀티태스킹 얼티밋</item>
-        <item>메뉴얼</item>
+        <item>사용자 설정</item>
     </string-array>
     <string-array name="minfree_values">
         <item>0</item>
@@ -463,17 +463,17 @@
         <item>2</item>
     </string-array>
     <string-array name="anim_strings">
-        <item>Normal</item>
-        <item>Accelerate and Decelerate</item>
-        <item>Decelerate</item>
-        <item>Accelerate</item>
+        <item>기본</item>
+        <item>빨라졌다 느려짐</item>
+        <item>느려짐</item>
+        <item>빨라짐</item>
     </string-array>
     <string-array name="pulse_values">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="pulse_strings">
-        <item>Pulse Up and Down</item>
-        <item>Standard</item>
+        <item>왕복</item>
+        <item>기본</item>
     </string-array>
 </resources>
