@@ -3,8 +3,8 @@ Sense 4.1 - Viper ROM Korean
 
 Venom Team's Sense Rom (Sense4.1) Korean Translate
 
-Based on ViperDHD 2.3.0
+Based on ViperS 2.0.x
 
-Translate based on ViperDHD 2.2.0 (Sense 4.1)
+Translate based on ViperS 2.0.x (Sense 4.1)
 
-Translated by neochain (neochain@cleartype.kr)
+Translated by neochain (neochain@naver.com)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">기본 테스트 케이스를 수행하려면 메뉴 항목을 사용하십시오.</string>
-    <string name="app_name">음악 향상기</string>
+    <string name="app_name">음향 효과</string>
     <string name="download_albumart_title">Gracenote의 앨범 아트</string>
     <string name="download_kuwo_albumart_title">Kuwo 음악의 앨범 정보</string>
     <string name="notif_download_finish" formatted="false">총 %d개의 앨범을 확인했습니다. %d개의 앨범을 업데이트했습니다.</string>
