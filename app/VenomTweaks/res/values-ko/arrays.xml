@@ -18,7 +18,7 @@
         <item>다시 시작 메뉴</item>
         <item>전원 메뉴</item>
         <item>검색</item>
-        <item>상태바 확장</item>
+        <item>상태바 열기</item>
         <item>앱 종료</item>
         <item>스크린샷</item>
         <item>손전등</item>
@@ -63,10 +63,10 @@
         <item>최근 앱</item>
         <item>재부팅 메뉴</item>
         <item>전원 메뉴</item>
-        <item>상태바 확장</item>
+        <item>상태바 열기</item>
         <item>앱 종료</item>
         <item>스크린샷</item>
-        <item>플래시라이트</item>
+        <item>손전등</item>
         <item>음악 - 재생/정지</item>
         <item>음악 - 이전곡</item>
         <item>음악 - 다음곡</item>
@@ -90,8 +90,8 @@
     </string-array>
     <string-array name="longress_home_ls_entries">
         <item>없음</item>
-        <item>손전등 토글</item>
-        <item>사용자 앱</item>
+        <item>손전등</item>
+        <item>사용자 앱 실행</item>
     </string-array>
     <string-array name="longress_home_ls_values">
         <item>0</item>
@@ -114,7 +114,7 @@
     </string-array>
     <string-array name="sweep_wake_entries">
         <item>사용함</item>
-        <item>사용함(백라이트 없음)</item>
+        <item>사용함 (백라이트 없음)</item>
         <item>사용안함</item>
     </string-array>
     <string-array name="sweep_wake_values">
@@ -149,7 +149,7 @@
     <string-array name="unlock_buttons_entries">
         <item>홈</item>
         <item>메뉴</item>
-        <item>뒤</item>
+        <item>뒤로 가기</item>
         <item>검색</item>
     </string-array>
     <string-array name="extended_statusbartext_entries">
@@ -232,9 +232,9 @@
         <item>2</item>
     </string-array>
     <string-array name="pref_volume_entries">
-        <item>Normal</item>
-        <item>Fine</item>
-        <item>Finest</item>
+        <item>기본</item>
+        <item>세분화</item>
+        <item>많이 세분화</item>
     </string-array>
     <string-array name="pref_volume_values">
         <item>0</item>
@@ -296,7 +296,7 @@
     <string-array name="quick_settings_entries">
         <item>트윅</item>
         <item>볼륨</item>
-        <item>자동꺼짐</item>
+        <item>절전모드</item>
         <item>자동밝기</item>
         <item>손전등</item>
         <item>자동회전</item>
@@ -313,8 +313,8 @@
         <item>무선 ADB</item>
         <item>작업관리자</item>
         <item>소니 xLOUD</item>
-        <item>재부팅</item>
-        <item>파워세이버</item>
+        <item>다시 시작</item>
+        <item>전원 절약기</item>
     </string-array>
     <string-array name="quick_settings_ids">
         <item>Tweaks</item>
@@ -358,10 +358,10 @@
         <item>ADB 아이콘</item>
     </string-array>
     <string-array name="autobrightness_entries">
-        <item>Normal</item>
-        <item>Lower</item>
-        <item>Lowest</item>
-        <item>Manual</item>
+        <item>기본</item>
+        <item>낮음</item>
+        <item>매우 낮음</item>
+        <item>매뉴얼</item>
     </string-array>
     <string-array name="autobrightness_values">
         <item>0</item>
@@ -373,7 +373,7 @@
         <item>다시 시작</item>
         <item>스크린샷</item>
         <item>비행기 모드</item>
-        <item>3G 데이터</item>
+        <item>데이터</item>
         <item>소리 조절</item>
     </string-array>
     <string-array name="recentapps_style_entries">
@@ -404,13 +404,13 @@
         <item>없음</item>
         <item>사용자 앱</item>
         <item>최근 앱</item>
-        <item>저번 앱으로 가기</item>
+        <item>이전 앱으로 가기</item>
         <item>홈으로 가기</item>
-        <item>어플 종료</item>
-        <item>재생/종료</item>
+        <item>앱 종료</item>
+        <item>재생/정지</item>
         <item>다음 곡</item>
         <item>저번 곡</item>
-        <item>상태바 확장</item>
+        <item>상태바 열기</item>
     </string-array>
     <string-array name="gestures_values">
         <item>0</item>
@@ -445,9 +445,9 @@
     <string-array name="minfree_entries">
         <item>기본</item>
         <item>멀티태스킹</item>
-        <item>멀티태스킹 익스트림</item>
-        <item>멀티태스킹 얼티밋</item>
-        <item>사용자 설정</item>
+        <item>최고의 멀티태스킹</item>
+        <item>극강의 멀티태스킹</item>
+        <item>매뉴얼</item>
     </string-array>
     <string-array name="minfree_values">
         <item>0</item>

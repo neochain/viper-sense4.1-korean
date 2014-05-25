@@ -21,7 +21,7 @@
     <string name="content_reader">Reader</string>
     <string name="content_skin">Skin</string>
     <string name="default_move_button_caption">SD카드로 이동</string>
-    <string name="default_move_to_phone_button_caption">Move to Phone Storage</string>
+    <string name="default_move_to_phone_button_caption">내부 저장소로 이동</string>
     <string name="uninstall_app_title">애플리케이션 제거</string>
     <string name="uninstall_app_select_item_caption">모든 애플리케이션</string>
     <string name="delete_mail_title">Delete attachments</string>
